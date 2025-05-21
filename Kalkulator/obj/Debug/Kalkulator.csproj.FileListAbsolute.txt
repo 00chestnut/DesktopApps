@@ -1,0 +1,11 @@
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.config
+C:\Users\Maksymilian\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Calculator.resources
