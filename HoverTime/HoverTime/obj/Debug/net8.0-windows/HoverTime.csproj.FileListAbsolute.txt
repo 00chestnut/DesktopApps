@@ -1,0 +1,16 @@
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.Form1.resources
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.csproj.GenerateResource.cache
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.AssemblyInfoInputs.cache
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.AssemblyInfo.cs
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\HoverTime\HoverTime\bin\Debug\net8.0-windows\HoverTime.exe
+C:\Users\maksy\source\repos\HoverTime\HoverTime\bin\Debug\net8.0-windows\HoverTime.deps.json
+C:\Users\maksy\source\repos\HoverTime\HoverTime\bin\Debug\net8.0-windows\HoverTime.runtimeconfig.json
+C:\Users\maksy\source\repos\HoverTime\HoverTime\bin\Debug\net8.0-windows\HoverTime.dll
+C:\Users\maksy\source\repos\HoverTime\HoverTime\bin\Debug\net8.0-windows\HoverTime.pdb
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.dll
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\refint\HoverTime.dll
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.pdb
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\HoverTime.genruntimeconfig.cache
+C:\Users\maksy\source\repos\HoverTime\HoverTime\obj\Debug\net8.0-windows\ref\HoverTime.dll
