@@ -11,10 +11,6 @@ namespace HoverTime
         public Form1()
         {
             InitializeComponent();
-
-            // Optional: attach handlers if not using Designer
-            // hoverBtn.MouseEnter += hoverBtn_MouseEnter;
-            // hoverBtn.MouseLeave += hoverBtn_MouseLeave;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -24,18 +20,34 @@ namespace HoverTime
 
         private void hoverBtn_MouseEnter(object sender, EventArgs e)
         {
-            hoverTimer.Restart(); // This starts and resets the timer
+            hoverTimer.Restart();
         }
 
         private void hoverBtn_MouseLeave(object sender, EventArgs e)
         {
             hoverTimer.Stop();
-            timing.Text = $"Hovered: {hoverTimer.ElapsedMilliseconds} ms";
+            timing.Text = $"Hovered: {hoverTimer.ElapsedMilliseconds} ms    /    {hoverTimer.ElapsedMilliseconds / 1000} s";
+            label1.Text = $"Hovered: {++labelcounter} times";
         }
 
         private void timing_TextChanged(object sender, EventArgs e)
         {
-            // Optional
+        }
+
+        private void hoverBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        int clicks = 0;
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Text = $"Clicked: {++clicks} times";
+        }
+        int labelcounter = 0;
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
