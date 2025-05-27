@@ -30,40 +30,78 @@
         {
             hoverBtn = new Button();
             timing = new TextBox();
+            button1 = new Button();
+            label1 = new Label();
             SuspendLayout();
             // 
             // hoverBtn
             // 
-            hoverBtn.Location = new Point(175, 331);
+            hoverBtn.BackColor = SystemColors.ActiveCaption;
+            hoverBtn.Location = new Point(235, 141);
+            hoverBtn.Margin = new Padding(4, 5, 4, 5);
             hoverBtn.Name = "hoverBtn";
-            hoverBtn.Size = new Size(445, 101);
+            hoverBtn.Size = new Size(172, 168);
             hoverBtn.TabIndex = 0;
             hoverBtn.Text = "Hover over me :)";
-            hoverBtn.UseVisualStyleBackColor = true;
+            hoverBtn.UseVisualStyleBackColor = false;
+            hoverBtn.Click += hoverBtn_Click;
             hoverBtn.MouseEnter += hoverBtn_MouseEnter;
             hoverBtn.MouseLeave += hoverBtn_MouseLeave;
             // 
             // timing
             // 
             timing.BackColor = Color.CornflowerBlue;
-            timing.Location = new Point(154, 74);
+            timing.BorderStyle = BorderStyle.FixedSingle;
+            timing.CausesValidation = false;
+            timing.Font = new Font("Showcard Gothic", 26F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            timing.Location = new Point(-2, -2);
+            timing.Margin = new Padding(4, 5, 4, 5);
             timing.Multiline = true;
             timing.Name = "timing";
             timing.ReadOnly = true;
-            timing.Size = new Size(507, 129);
+            timing.Size = new Size(663, 91);
             timing.TabIndex = 1;
             timing.Text = "Hover time : ";
             timing.TextChanged += timing_TextChanged;
             // 
+            // button1
+            // 
+            button1.ImageAlign = ContentAlignment.BottomLeft;
+            button1.Location = new Point(12, 97);
+            button1.Name = "button1";
+            button1.Size = new Size(218, 42);
+            button1.TabIndex = 2;
+            button1.Text = "Click me ";
+            button1.TextAlign = ContentAlignment.MiddleLeft;
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.Ivory;
+            label1.Location = new Point(235, 314);
+            label1.Name = "label1";
+            label1.Size = new Size(89, 25);
+            label1.TabIndex = 3;
+            label1.Text = "Hovered: ";
+            label1.Click += label1_Click;
+            // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(797, 538);
+            BackColor = Color.Lime;
+            ClientSize = new Size(657, 424);
+            Controls.Add(label1);
+            Controls.Add(button1);
             Controls.Add(timing);
             Controls.Add(hoverBtn);
+            ForeColor = SystemColors.ActiveCaptionText;
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form1";
-            Text = "Form1";
+            Tag = "Hover Time Meter";
+            Text = "Hover Time Meter";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -73,5 +111,7 @@
 
         private Button hoverBtn;
         private TextBox timing;
+        private Button button1;
+        private Label label1;
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksy\\source\\repos\\HoverTime\\HoverTime\\HoverTime.csproj": {}
+    "C:\\Users\\Maksymilian\\source\\repos\\DesktopApps\\HoverTime\\HoverTime\\HoverTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksy\\source\\repos\\HoverTime\\HoverTime\\HoverTime.csproj": {
+    "C:\\Users\\Maksymilian\\source\\repos\\DesktopApps\\HoverTime\\HoverTime\\HoverTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksy\\source\\repos\\HoverTime\\HoverTime\\HoverTime.csproj",
+        "projectUniqueName": "C:\\Users\\Maksymilian\\source\\repos\\DesktopApps\\HoverTime\\HoverTime\\HoverTime.csproj",
         "projectName": "HoverTime",
-        "projectPath": "C:\\Users\\maksy\\source\\repos\\HoverTime\\HoverTime\\HoverTime.csproj",
-        "packagesPath": "C:\\Users\\maksy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksy\\source\\repos\\HoverTime\\HoverTime\\obj\\",
+        "projectPath": "C:\\Users\\Maksymilian\\source\\repos\\DesktopApps\\HoverTime\\HoverTime\\HoverTime.csproj",
+        "packagesPath": "C:\\Users\\Maksymilian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maksymilian\\source\\repos\\DesktopApps\\HoverTime\\HoverTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\maksy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maksymilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
