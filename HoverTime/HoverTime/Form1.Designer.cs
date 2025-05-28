@@ -32,11 +32,13 @@
             timing = new TextBox();
             button1 = new Button();
             label1 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
             // hoverBtn
             // 
             hoverBtn.BackColor = SystemColors.ActiveCaption;
+            hoverBtn.Font = new Font("Rockwell Nova Cond", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             hoverBtn.Location = new Point(235, 141);
             hoverBtn.Margin = new Padding(4, 5, 4, 5);
             hoverBtn.Name = "hoverBtn";
@@ -80,12 +82,27 @@
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Ivory;
+            label1.Font = new Font("Papyrus", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(235, 314);
             label1.Name = "label1";
-            label1.Size = new Size(89, 25);
+            label1.Size = new Size(99, 28);
             label1.TabIndex = 3;
             label1.Text = "Hovered: ";
             label1.Click += label1_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.BackColor = SystemColors.ButtonHighlight;
+            label2.BorderStyle = BorderStyle.Fixed3D;
+            label2.Cursor = Cursors.IBeam;
+            label2.Font = new Font("Snap ITC", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(12, 142);
+            label2.Name = "label2";
+            label2.Size = new Size(109, 26);
+            label2.TabIndex = 4;
+            label2.Text = "Clicked: ";
+            label2.Click += label2_Click;
             // 
             // Form1
             // 
@@ -93,6 +110,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Lime;
             ClientSize = new Size(657, 424);
+            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button1);
             Controls.Add(timing);
@@ -113,5 +131,6 @@
         private TextBox timing;
         private Button button1;
         private Label label1;
+        private Label label2;
     }
 }

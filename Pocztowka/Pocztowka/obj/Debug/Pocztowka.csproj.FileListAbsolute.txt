@@ -1,0 +1,11 @@
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\bin\Debug\Pocztowka.exe.config
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\bin\Debug\Pocztowka.exe
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\bin\Debug\Pocztowka.pdb
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.csproj.AssemblyReference.cache
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.Poczta.resources
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.Properties.Resources.resources
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.csproj.GenerateResource.cache
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.csproj.CoreCompileInputs.cache
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.exe
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.pdb
+C:\Users\Maksymilian\source\repos\Pocztowka\Pocztowka\obj\Debug\Pocztowka.exe.config

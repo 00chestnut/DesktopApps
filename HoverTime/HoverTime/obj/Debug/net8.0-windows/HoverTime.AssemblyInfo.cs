@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoverTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971cb9b69b37d6e6bc907761e817e910f09eb918")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b09e0387eb9df7c9c1e9f79e7230754775e6f42")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoverTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoverTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

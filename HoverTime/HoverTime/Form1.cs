@@ -7,7 +7,7 @@ namespace HoverTime
     public partial class Form1 : Form
     {
         private Stopwatch hoverTimer = new Stopwatch();
-
+       
         public Form1()
         {
             InitializeComponent();
@@ -42,10 +42,15 @@ namespace HoverTime
         int clicks = 0;
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = $"Clicked: {++clicks} times";
+            label2.Text = $"Clicked: {++clicks} times";
         }
         int labelcounter = 0;
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
